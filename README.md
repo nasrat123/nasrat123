@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Nasratullah%20Bahir&fontSize=50&fontAlignY=40&desc=Web%20Developer%20|%20Django%20Developer&descAlignY=60" />
+</p>
 <h1 align="center">👋 Hi, I'm Nasratullah Bahir</h1>
 
 <h3 align="center">💻 Web & Database Developer | 📈 Passionate about Finance & Python</h3>
@@ -37,7 +40,53 @@ I’m passionate about building scalable web applications, automating workflows,
 
 ---
 
+## 🏦 Professional Experience
+
+### Customer Service Officer
+Afghan United Bank | 2024 - Present
+
+- Customer Relationship Management
+- Banking Operations
+- Financial Transactions
+- Compliance & AML/CFT
+- Cash Management
+
+### Booth In-Charge (Backup)
+Afghan United Bank
+
+- Branch Operations
+- Team Coordination
+- Customer Support
+- Cash Handling & Reporting
+
+- 
+
 ## 🚀 Projects
+
+### 🌾 Cotton Management System
+
+A professional Django-based Cotton Business Management System designed for cotton traders and processing businesses.
+
+#### Features
+- Customer Management
+- Cotton Purchase Management
+- Sales Management
+- Smart Payment System
+- Ledger Management
+- Customer Statements
+- PDF Reports
+- Dashboard Analytics
+- Profit & Loss Tracking
+- Inventory Monitoring
+
+#### Technologies
+- Python
+- Django
+- Bootstrap
+- JavaScript
+- MySQL
+
+🔗 Repository: https://github.com/nasrat123/cotton 
 
 ### 🏥 Hospital Management System  
 A complete Django-based system with modules for Patients, Doctors, Lab Examinations, Finance, and more.  
@@ -78,11 +127,16 @@ A currency exchange business management platform with client accounts, transacti
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nasrat123&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrat123&layout=compact&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nasrat123" />
+</p>
 ---
 
 ## 🤝 Let's Connect
